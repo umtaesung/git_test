@@ -76,7 +76,7 @@ class MyApp extends StatelessWidget {
                               '다.',
                               style: TextStyle(color: Colors.red[300]),
                             ),
-                            Text(' 다 적시셨네...'),
+                            Text(' 다 적시셨네..'),
                           ],
                         )),
                   ],
