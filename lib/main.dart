@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
           appBar: AppBar(
             backgroundColor: Colors.blue[400],
-            title: Text('대기실'),
+            title: Text('행시장인맨'),
           ),
           body: Center(
             child: Column(
